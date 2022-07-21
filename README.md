@@ -1,16 +1,16 @@
 # ComputerSoft
 
 
-###################################
-#############Zadanie 1#############
-###################################
+
+############# Zadanie 1
+
 
 Skrypt powinien być zincludowany w sekcji head.
 
 
-###################################
-#############Zadanie 2#############
-###################################
+
+############# Zadanie 2
+
 
 Aby uruchomić serwer Symfony należy wpisać
 komendę php bin/console server:run
@@ -23,9 +23,8 @@ Główne zadanie znajduje się pod
 http://127.0.0.1:8000/Currency
 
 
-###################################
-#######Zadanie 2 vanilla PHP#######
-###################################
+############# Zadanie 2 Vanilla PHP
+
 
 Proszę stworzyć bazę danych taką samą
 jak w przypadku projektu na Symfony.
