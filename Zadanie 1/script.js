@@ -7,6 +7,6 @@ window.onload = function() {
 
         elements.forEach(function(element){
            console.log(element.outerText);
-        });
+        }); 
     }
    };

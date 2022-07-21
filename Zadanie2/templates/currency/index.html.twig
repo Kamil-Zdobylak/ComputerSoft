@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Show currency. {% endblock %}
+
+{% block body %}
+
+
+
+    {% for currency in currencies %}
+        <li>{{ currency.name }}</li>
+        <li>{{ currency.currency_code }}</li>
+        <li>{{ currency.exchange_rate }}</li>
+
+    {% endfor %}
+
+{% endblock %}
